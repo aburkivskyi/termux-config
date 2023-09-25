@@ -1,0 +1,2 @@
+# termux-config
+Termux Config
